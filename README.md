@@ -1,7 +1,7 @@
 # twitter-sentiment-analysis-naive-bayes-shiny
 Twitter sentiment analysis using naive bayes algorithm with shiny dashboard
 
-EMAIL: playtejasz1996@gmail.com
+EMAIL: sharvilt1769@gmail.com
 
 
 PROJECT: TWITTER SENTIMENT ANALYSIS FOR BREXIT
