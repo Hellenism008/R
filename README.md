@@ -4,6 +4,7 @@ Twitter sentiment analysis using naive bayes algorithm with shiny dashboard
 EMAIL: sharvilt1769@gmail.com
 
 AUTHOR:SHARVIL VILAS TURBADKAR
+
 PROJECT: TWITTER SENTIMENT ANALYSIS FOR BREXIT
 TOOLS: Rstudio, SHINY DASHBOARD
 DEPLOYED AT: https://bvcoepros.shinyapps.io/krishna/
